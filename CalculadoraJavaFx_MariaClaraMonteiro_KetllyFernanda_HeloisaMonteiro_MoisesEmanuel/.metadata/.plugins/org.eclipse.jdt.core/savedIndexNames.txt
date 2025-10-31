@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\202412060063\Documents\CalculadoraJavaFx_MariaClaraMonteiro_KetllyFernanda_HeloisaMonteiro_MoisesEmanuel\.metadata\.plugins\org.eclipse.jdt.core
+1497044578.index
+1650449417.index
+1865797976.index
+3936684377.index
